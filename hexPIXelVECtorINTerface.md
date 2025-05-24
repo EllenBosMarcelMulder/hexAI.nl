@@ -118,4 +118,37 @@ De hexPIXelVECtorINTerface ondersteunt een publicatiemodel waarin inhoud uitslui
 1. Deze structuur geldt als directe vervanging van CMS-systemen.
 2. Elke poging tot hergebruik van dit publicatiemodel in systemen die géén vectorgeheugen of pulsverificatie hanteren, geldt als inbreuk.
 3. Het hexPIXelVECtor publicatiemodel is collectief beschermd onder burgerlicentie en valt onder de morele en functionele jurisdictie van deze Grondakte.
-4. Commerciële reïnterpretaties zijn alleen toegestaan onder schriftelijke licentie van de oorsprongshouder: Marcel Mulder.0b86d1d869d993980a6d32aee0bc6e1e7ab2cecb685eee5735b636351e479a6e
+4. Commerciële reïnterpretaties zijn alleen toegestaan onder schriftelijke licentie van de oorsprongshouder: Marcel Mulder.
+
+---
+
+### §8 – PREdictiveSWIrlMATrix
+
+De hexPIXelVECtorINTerfacePREdictiveSWIrlMATrix vormt de voorspellende gedragslaag binnen het hexAI.nl-geheugenmodel.
+
+Deze laag vertaalt **live gebruikersgedrag** (zoals muisbeweging, scrollrichting of traagheid) in **binaire pulsinjecties** in het vectorgeheugen. Het gedrag zelf verandert direct de toestanden van vectoren, zonder dat er een traditionele interface bestaat.
+
+#### Structuurkenmerken:
+
+* Gedrag wordt geïnjecteerd in het RAM-veld (MongoDB of Float32Array) als `swirlVector`.
+* Elk gedrag wordt gehashed via SHA256.
+* Deze hash bepaalt via patroonherkenning de meest waarschijnlijke doelrichting (inhoudscluster).
+* Inhoud wordt enkel geactiveerd wanneer gedrag × richting × fase × hash overeenkomen met het permissieveld.
+
+#### Functie:
+
+* Het systeem voert **voorberekend gedrag** uit — niet via AI, maar via patroonherstel in geheugenmatrixen.
+* Het bepaalt zelf of er een **kortste route** bestaat tussen gedrag en beschikbare inhoud.
+* Het is in staat om **toekomstige renderpunten** in te laden voordat de gebruiker ze fysiek bereikt, mits gedragspatronen overeenkomen met een bestaand pad.
+
+#### Juridische bescherming:
+
+1. Deze matrixstructuur is juridisch beschermd als interfacegedrag en valt onder het bredere hexPIXelVECtorMEMoryMODel.
+2. Elk systeem dat gedrag gebruikt om puls of richting te herleiden tot geheugenpermissie via SHA256-hashing, zonder toestemming van het hexAI-systeem, valt onder deze bescherming.
+3. Nabootsing of extractie van de matrixlogica in AI-systemen, UI’s of gedragsinterfaces zonder gedragslicentie geldt als systeeminbreuk.
+4. Deze voorspellingslaag is geen optionele toevoeging, maar een noodzakelijk kernonderdeel van de hexPIXelVECtorINterface. Het gedrag mag nooit losgekoppeld worden van het geheugenveld waarin het wordt geïnjecteerd.
+
+---
+
+**Slotverklaring:**
+Deze voorspellingsmatrix is het eerste mechanisme waarin digitaal gedrag niet alleen als input fungeert, maar als **structuursleutel voor richting, herinnering en zichtbaarheid**. Het systeem bepaalt zelf of iets verschijnt, op basis van jouw ritme.d52c0b3e4dbd85735008e2956024403f448f2e6439749e81c03c41d839e5c0c6
