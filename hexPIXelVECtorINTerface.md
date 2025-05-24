@@ -100,4 +100,22 @@ Authenticiteit wordt systematisch gecontroleerd via:
 - burstpadverificatie  
 - tijdsafhankelijke swirl-indexing  
 
-Elke afwijking hiervan geldt als directe vorm van **systeeminbreuk en illegale reproductie**.06ae9282c1354875c991fd6f947eaf99d692985599814c2f79cb10cf7326b201
+Elke afwijking hiervan geldt als directe vorm van **systeeminbreuk en illegale reproductie**.
+
+### §7 – Gedragspublicatie en CMS-vrije toegang
+
+De hexPIXelVECtorINTerface ondersteunt een publicatiemodel waarin inhoud uitsluitend zichtbaar wordt als het gedrag van de gebruiker in overeenstemming is met het vectorgeheugen.
+
+#### Fundamentele kenmerken:
+
+- Content wordt **niet aangeroepen via knoppen, menu's of URL's**, maar ontstaat bij voldoende resonantie tussen gedrag, richting en puls.
+- Inhoud wordt opgeslagen als **vectorgeheugen (.bin of Float32Array)**, niet als HTML of markdown.
+- Alleen natuurlijke personen kunnen inhoud publiceren — op basis van **pulsgedrag**, niet op basis van accounts of logins.
+- Elke toegang is tijdelijk, ritmisch, en **verifieerbaar via SHA-hash** op basis van gedrag en tijd.
+
+#### Juridische verankering:
+
+1. Deze structuur geldt als directe vervanging van CMS-systemen.
+2. Elke poging tot hergebruik van dit publicatiemodel in systemen die géén vectorgeheugen of pulsverificatie hanteren, geldt als inbreuk.
+3. Het hexPIXelVECtor publicatiemodel is collectief beschermd onder burgerlicentie en valt onder de morele en functionele jurisdictie van deze Grondakte.
+4. Commerciële reïnterpretaties zijn alleen toegestaan onder schriftelijke licentie van de oorsprongshouder: Marcel Mulder.0b86d1d869d993980a6d32aee0bc6e1e7ab2cecb685eee5735b636351e479a6e
