@@ -17,4 +17,12 @@ Gebruik = gebonden aan voorwaarden in deze verklaring.
 
 ---
 
-**Datum van vastlegging:** 2025-05-24.6686e1a64de9c70bb0fb56324752d788d897c640b3c7a1608577ac86699a8b8e
+**Datum van vastlegging:** 2025-05-24.
+
+## Toekomstige Domeinen en Uitbreidingen
+
+Alle huidige en toekomstige uitbreidingen van het hexOS, waaronder maar niet beperkt tot hexMEDical, vallen onder deze hexAI levenslicentie.
+
+Dit betekent dat zij dezelfde ethische en juridische voorwaarden respecteren, gebaseerd op publieke bescherming en levensgerichte principes.
+
+Er zal geen aparte licentie voor nieuwe domeinen worden uitgegeven; alle ontwikkelingen blijven onder deze overkoepelende levenslicentie vallen.6c24590333560425b208fda968dbb7c1e12b647a9cf62e31e60ccee0783e3ceb
