@@ -1,0 +1,2 @@
+# hexAI.nl
+Publieke licentiepagina
