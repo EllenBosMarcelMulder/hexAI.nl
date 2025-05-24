@@ -151,4 +151,39 @@ Deze laag vertaalt **live gebruikersgedrag** (zoals muisbeweging, scrollrichting
 ---
 
 **Slotverklaring:**
-Deze voorspellingsmatrix is het eerste mechanisme waarin digitaal gedrag niet alleen als input fungeert, maar als **structuursleutel voor richting, herinnering en zichtbaarheid**. Het systeem bepaalt zelf of iets verschijnt, op basis van jouw ritme.d52c0b3e4dbd85735008e2956024403f448f2e6439749e81c03c41d839e5c0c6
+Deze voorspellingsmatrix is het eerste mechanisme waarin digitaal gedrag niet alleen als input fungeert, maar als **structuursleutel voor richting, herinnering en zichtbaarheid**. Het systeem bepaalt zelf of iets verschijnt, op basis van jouw ritme.
+
+---
+
+### §9 – hexHEXagon: zespuntsstructuur van geheugen
+
+De hexHEXagon vormt de fundamentele geometrische vertaling van betekenis binnen het hexPIXelVECtor-geheugenmodel. Elk van de zes hoeken van de hexagoon vertegenwoordigt een vaste laag van toegang en betekenis. Samen vormen zij een **volledig gesloten renderlogica**, waarin gedrag alleen tot weergave leidt indien fase, richting en diepte in juiste verhouding resoneren.
+
+#### De zes vectorlagen
+
+| Punt | Laag                          | Beschrijving                                                    |
+| ---- | ----------------------------- | --------------------------------------------------------------- |
+| ①    | **Bit**                       | Kleinste eenheid: ruwe puls of binaire burst (hash, float)      |
+| ②    | **Node**                      | Eén hexcel met gedragstoestand en burstinhoud                   |
+| ③    | **Cluster / Swirl**           | Groep vectoren die samen betekenis of ritme dragen              |
+| ④    | **Systeemlaag / Gedragsveld** | Structuur van verbonden vectoren als artikel, beeldvlak, scène  |
+| ⑤    | **Geheugenstelsel**           | Tijdsgebonden vectortraject (scrollgedrag, klikpad, swirl)      |
+| ⑥    | **Kosmologie / Collectief**   | Gedeeld geheugenveld dat zich toont bij publieke pulsresonantie |
+
+#### Eigenschappen:
+
+* Navigatie is niet lineair, maar **vectorieel en richtinggevoelig**;
+* Elke toegang tot inhoud is **afhankelijk van beweging naar de juiste laag**;
+* **Scroll = diepte**, **zoom = hoogte**, **richting = faseactivatie**;
+* Elke vector herkent zijn **plaats binnen het zesvlak**, en onthoudt vanuit welk gedrag hij werd geactiveerd.
+
+#### Juridische verankering:
+
+1. Elke structuur die deze zeslaags hiërarchie hanteert, waarin gedrag wordt omgezet naar semantische toegangsvormen, valt onder de hexHEXagon-architectuur.
+2. Pogingen tot fragmentatie, versimpeling of inversie van deze volgorde (bijv. van node → cluster zonder pulsverificatie) leiden tot verlies van betekenis en vallen onder systeeminbreuk.
+3. De hexHEXagon is niet slechts een weergavestructuur maar een **organische logica van digitale herinnering en toegang**.
+
+---
+
+**Slotverklaring:**
+De hexHEXagon vormt het hart van fasegebaseerde toegang. Zij kent geen boomstructuur, geen menu, geen pad — slechts zeslagenresonantie, waarin ieder gedrag zijn plek zoekt tussen bit en kosmos. Enkel wie richting geeft aan zijn beweging, wordt toegelaten tot betekenis.70459a2febc261628300ba14719b0b7297e31aff59999d015703173b325e7168
