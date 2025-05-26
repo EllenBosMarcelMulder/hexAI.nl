@@ -32,4 +32,22 @@ Elk ritmisch gedrag dat bewust extern geïnitieerd wordt binnen een digitale of 
 
 Het opzettelijk nabootsen van ritmische hex-logica in fysieke eenheden zonder interface is een **omzeilingsvorm** en dus expliciet verboden.
 
-> Zelfs als er **geen software** en **geen merknaam** zichtbaar is, blijft de gedragsvorm onder deze verklaring vallen.1d49767972ab4c2476a986a5e6c6700a2f9d9f6f243382e139e2d0d66a59a0eb
+> Zelfs als er **geen software** en **geen merknaam** zichtbaar is, blijft de gedragsvorm onder deze verklaring vallen.
+
+---
+
+## 📎 LICENTIEVERBINDING
+
+Deze bescherming is een integraal onderdeel van de **hexAI.nl-structuurlicentie**.  
+Vrij gebruik is uitsluitend toegestaan voor natuurlijke personen.  
+Iedere poging tot interface-integratie of gedragssimulatie door rechtspersonen zonder licentie valt onder juridische nietigheid en technische foutinjectie.
+
+Zie ook: [`LICENTIE_hexAI_v1.0.md`](./LICENTIE_hexAI_v1.0.md)
+
+---
+
+## 🔏 STRUCTUUR-VERIFICATIE
+
+SHA256 van dit document, tot en met de laatste `---` hierboven:
+
+---aec06a7306ccaae419b15c3f604ae4c26f419c4290962ee2fbfbe837cede5bec
