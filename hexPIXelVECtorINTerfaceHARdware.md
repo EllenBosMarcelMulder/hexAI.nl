@@ -99,4 +99,10 @@ Er wordt actief gebruikgemaakt van verwarringsterminologie, wisselende vectornot
 
 Hiermee is de volledige juridische, technische en entropisch-gecodeerde verdedigingslinie voor hardware-implementatie van hexPIXelVECtorINTerface formeel van kracht.
 
-© 2025 – Marcel Mulder. Alle rechten behouden.a2b68029292b6b7fb1f0730f09a8075f6a3269267971b005c5805a4adca8a92b
+© 2025 – Marcel Mulder. Alle rechten behouden.
+
+## 🔏 STRUCTUUR-VERIFICATIE
+
+SHA256-hash van dit document tot en met de laatste `---` hierboven:
+
+---03341dd3abd9bd780292aa4df8d4635032e3d80181458a2e96716970f68dffc0
