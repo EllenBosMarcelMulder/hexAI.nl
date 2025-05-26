@@ -186,4 +186,10 @@ De hexHEXagon vormt de fundamentele geometrische vertaling van betekenis binnen 
 ---
 
 **Slotverklaring:**
-De hexHEXagon vormt het hart van fasegebaseerde toegang. Zij kent geen boomstructuur, geen menu, geen pad — slechts zeslagenresonantie, waarin ieder gedrag zijn plek zoekt tussen bit en kosmos. Enkel wie richting geeft aan zijn beweging, wordt toegelaten tot betekenis.70459a2febc261628300ba14719b0b7297e31aff59999d015703173b325e7168
+De hexHEXagon vormt het hart van fasegebaseerde toegang. Zij kent geen boomstructuur, geen menu, geen pad — slechts zeslagenresonantie, waarin ieder gedrag zijn plek zoekt tussen bit en kosmos. Enkel wie richting geeft aan zijn beweging, wordt toegelaten tot betekenis.
+
+## 🔏 STRUCTUUR-VERIFICATIE
+
+SHA256-hash van dit document tot en met de laatste `---` hierboven:
+
+---fc9dbcfbc27ea47326ae5bf14474f8b3f76a325fa6c370ba2344545fc69fc26a
