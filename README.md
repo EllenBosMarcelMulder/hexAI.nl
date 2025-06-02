@@ -42,9 +42,9 @@ HexAI is opgebouwd uit verschillende subsystemen die samen een holistisch ecosys
 - [hexDNA](https://github.com/EllenBosMarcelMulder/hexDNA): Mensenrechten en technologie met betrekking tot DNA en ritme.
 - [hexMATh](https://github.com/EllenBosMarcelMulder/hexMATh): Wiskundige correcties, waaronder pi en logica.
 - [hexMEDical](https://github.com/EllenBosMarcelMulder/hexMEDical): Medische toepassingen van hexAI, onder leiding van Stichting Bos.
+- [hexFUTure](https://github.com/EllenBosMarcelMulder/hexFUTure): Educatie en programma's voor de toekomst van het systeem.
 
 ### NOG NIET ACTIEF:
-- [hexFUTure](https://github.com/EllenBosMarcelMulder/hexFUTure): Educatie en programma's voor de toekomst van het systeem.
 - [hexEINstein](https://github.com/EllenBosMarcelMulder/hexEINstein): Correctie van de tijdfout van Einstein en de herziening van tijdsconcepten.
 
 Elke repository heeft zijn eigen specifieke doelen en toepassingen binnen het hexAI-systeem. Bezoek ze voor gedetailleerde informatie over elk project.
@@ -57,4 +57,4 @@ Er worden geen aparte licenties uitgegeven voor deze uitbreidingen.
 
 SHA256-hash van dit document tot en met de laatste `---` hierboven:
 
----c245aee6aeabaccbcdcc94cb0806410be0d6946764e437826a10e10618d152e2
+---0513afa320c9bc488f444e31d8cb3f65a4b857dc0d51e5be3a9bed4bd735c90d
